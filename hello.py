@@ -2,9 +2,9 @@
 
 def greet(name):
   """
-  Thistakes a name as input and returns a hello and welcome message. 
+  Thistakes a name as input and returns a goodbye message.
   """
-  return f"Hello, {name} and welcome to our world!"
+  return f"Goodbye, {name}!"
 
 if __name__ == "__main__":
   # Call the greet function with a specific name
