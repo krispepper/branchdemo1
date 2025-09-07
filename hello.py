@@ -2,9 +2,9 @@
 
 def greet(name):
   """
-  Thistakes a name as input and returns a goodbye message.
+  Thistakes a name as input and returns a aloha message.
   """
-  return f"Goodbye, {name}!"
+  return f"aloha, {name}!"
 
 if __name__ == "__main__":
   # Call the greet function with a specific name
@@ -12,5 +12,5 @@ if __name__ == "__main__":
   print(message)
 
   # Get input from the user and greet them
-  user_name = input("What's your real name? ")
+  user_name = input("What's your name? ")
   print(greet(user_name))

@@ -1,1 +1,2 @@
-say aloha not hello
+say aloha not hello 
+good idea
